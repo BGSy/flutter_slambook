@@ -1,16 +1,3 @@
-# sy_exercise08
+# Flutter Slambook Application (2023)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Flutter Mobile application that utilizes the Firebase Firestore database in order to store persistent slambook entries made using the application. Created using Dart, Android Studio, Flutter, and Firebase. Object-oriented programming approach was used exemplified by different screens, a provider function, and models for the slambook entries.
