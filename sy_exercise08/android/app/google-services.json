@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328292031774",
+    "project_id": "cmsc23-slambook-app-bsy",
+    "storage_bucket": "cmsc23-slambook-app-bsy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328292031774:android:9d051d8a33117f7cdf3d0f",
+        "android_client_info": {
+          "package_name": "com.example.sy_exercise08"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328292031774-tkjafgi9l1vvlp5pqea0cukc3q9qtopt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbGgIisDyNbA-dRYW5ZMjvjtsZYpVcXFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328292031774-tkjafgi9l1vvlp5pqea0cukc3q9qtopt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
