@@ -1,4 +1,4 @@
-# Flutter Slambook Application (2023)
+# Flutter Slambook Application
 A Flutter Mobile application that utilizes the Firebase Firestore database in order to store persistent slambook entries made using the application. Created using Visual Studio Code, Dart, Android Studio, Flutter, and Firebase. Object-oriented programming approach was used exemplified by different screens, a provider function, and models for the slambook entries.
 
 #### Flutter v. 3.24.1
